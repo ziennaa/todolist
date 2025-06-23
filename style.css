@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
 body {
-  background-color: #ffe4e1; /* light pastel pink */
+  background-color: #ffe4e1; 
   display: flex;
   justify-content: center;
    align-items: center;
@@ -14,8 +14,8 @@ body {
   width: 400px;
   height: 600px;
   background-image: url("notepadpink.jpg");
-  background-size: 100% 100%;       /* This stretches the image to cover full width & height */
-  background-repeat: no-repeat;     /* Prevents tiling */
+  background-size: 100% 100%;       
+  background-repeat: no-repeat;     
   background-position: center;
   border-radius: 20px;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
